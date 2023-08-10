@@ -11,8 +11,10 @@
 > Run **_cd Smart-Realtor_**
 
 Copy **.env.example** file to **.env** and edit **Database** credentials 
+
 In Windows:
 > Run **_copy .env.example .env_**
+
 In Linux/Mac:
 > Run **_cp .env.example .env_**
 
