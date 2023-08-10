@@ -28,7 +28,7 @@ In Linux/Mac:
 
 ## Demo
 ## HomePage Demo
-<img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Homepage.png.png"/>
+<img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Homepage.png"/>
 
 ## Entire Properties Index Page
 <img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Index.png"/>
