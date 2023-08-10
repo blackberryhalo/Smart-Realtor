@@ -27,13 +27,16 @@ In Linux/Mac:
 > Run **_php artisan serve_**
 
 ## Demo
-## Search Result Summary Demo
-<img src="https://github.com/Shahed-Chy-Suzan/property-listing/blob/master/z_others/demo-images/serach-result.png"/>
+## HomePage Demo
+<img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Homepage.png.png"/>
 
-## Entire Properties Page
-<img src="https://github.com/Shahed-Chy-Suzan/property-listing/blob/master/z_others/demo-images/properties.jpg"/>
+## Entire Properties Index Page
+<img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Index.png"/>
 
-## Entire Dashboard / Admin-Panel Page
-<img src="https://github.com/Shahed-Chy-Suzan/property-listing/blob/master/z_others/demo-images/Dashboard.png"/>
+## Property Detail Page
+<img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Detail.png"/>
+
+## Dashboard Property Listing Page
+<img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Listing.png"/>
 
 
