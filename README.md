@@ -18,6 +18,8 @@ In Windows:
 In Linux/Mac:
 > Run **_cp .env.example .env_**
 
+Install others
+
 > Run **_composer install_**
 
 > Run **_php artisan key:generate_**
