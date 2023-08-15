@@ -4,6 +4,10 @@
 
 </div>
 
+## Prerequisite: MySQL, Visual studio redistributable, composer
+
+For Windows, please refer this to install WSL and Docker Desktop: https://laravel.com/docs/10.x#getting-started-on-windows
+
 ## After clone or download this project, please follow the instructions
 
 > Clone the repository with **_git clone https://github.com/blackberryhalo/Smart-Realtor.git_**
