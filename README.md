@@ -14,7 +14,7 @@ For Windows, please refer this to install WSL and Docker Desktop additionally: h
 
 > Run **_cd Smart-Realtor_**
 
-Copy **.env.example** file to **.env** and edit **Database** credentials, be sure to match the MySQL server running on your localhost
+Copy **.env.example** file to **.env** and edit **Database** credentials, be sure the following matches the MySQL server running on your localhost:
 
 ```
 DB_CONNECTION=mysql
@@ -26,14 +26,19 @@ DB_PASSWORD="password"
 ```
 
 In Windows:
-> Run **_copy .env.example .env_**
+```
+Run **_copy .env.example .env_**
+```
 
 In Linux/Mac:
-> Run **_cp .env.example .env_**
+```
+Run **_cp .env.example .env_**
+```
 
 Install others
 
-> Run **_composer install_**
+```
+Run **_composer install_**
 
 > Run **_php artisan key:generate_**
 
@@ -42,6 +47,12 @@ Install others
 > Run **_npm install_**
 
 > Run **_php artisan serve_**
+```
+
+## House Rental Address:localhost:8000
+## House Rental Dashboard Address:localhost:8000/dashboard
+> Login Account: **_admin@gamil.com_**
+> Login Password: **_admin_**
 
 ## Demo
 ## HomePage Demo
