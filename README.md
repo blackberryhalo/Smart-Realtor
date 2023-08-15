@@ -14,7 +14,7 @@ For Windows, please refer this to install WSL and Docker Desktop additionally: h
 
 > Run **_cd Smart-Realtor_**
 
-Copy **.env.example** file to **.env** and edit **Database** credentials, be sure the following matches the MySQL server running on your localhost:
+Copy **.env.example** file to **.env** and edit **Database** credentials, be sure the following **DB_USERNAME** and **DB_PASSWORD** matches the MySQL server running on your localhost:
 
 ```
 DB_CONNECTION=mysql
