@@ -45,6 +45,7 @@ composer install
 php artisan key:generate
 ```
 
+After configuring your MySQL database, run migrations:
 ```
 php artisan migrate
 ```
