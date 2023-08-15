@@ -67,13 +67,13 @@ php artisan serve
 ### HomePage Demo
 <img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Homepage.png"/>
 
-## Entire Properties Index Page
+### Entire Properties Index Page
 <img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Index.png"/>
 
-## Property Detail Page
+### Property Detail Page
 <img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Detail.png"/>
 
-## Dashboard Property Listing Page
+### Dashboard Property Listing Page
 <img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Property-Listing.png"/>
 
 
