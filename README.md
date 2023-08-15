@@ -25,28 +25,36 @@ DB_USERNAME=root
 DB_PASSWORD="password"
 ```
 
-In Windows:
+In Windows, run:
 ```
-Run **_copy .env.example .env_**
-```
-
-In Linux/Mac:
-```
-Run **_cp .env.example .env_**
+copy .env.example .env
 ```
 
-Install others
+In Linux/Mac, run:
+```
+cp .env.example .env
+```
+
+Install others before starting:
 
 ```
-Run **_composer install_**
+composer install
+```
 
-> Run **_php artisan key:generate_**
+```
+php artisan key:generate
+```
 
-> Run **_php artisan migrate_**
+```
+php artisan migrate
+```
 
-> Run **_npm install_**
+```
+npm install
+```
 
-> Run **_php artisan serve_**
+```
+php artisan serve
 ```
 
 ## House Rental Address:localhost:8000
