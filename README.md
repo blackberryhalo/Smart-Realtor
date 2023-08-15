@@ -6,7 +6,7 @@
 
 ## Prerequisite: MySQL, Visual studio redistributable, composer
 
-For Windows, please refer this to install WSL and Docker Desktop: https://laravel.com/docs/10.x#getting-started-on-windows
+For Windows, please refer this to install WSL and Docker Desktop additionally: https://laravel.com/docs/10.x#getting-started-on-windows
 
 ## After clone or download this project, please follow the instructions
 
@@ -14,7 +14,16 @@ For Windows, please refer this to install WSL and Docker Desktop: https://larave
 
 > Run **_cd Smart-Realtor_**
 
-Copy **.env.example** file to **.env** and edit **Database** credentials 
+Copy **.env.example** file to **.env** and edit **Database** credentials, be sure to match the MySQL server running on your localhost
+ 
+···
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD="password"
+···
 
 In Windows:
 > Run **_copy .env.example .env_**
