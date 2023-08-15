@@ -1,6 +1,6 @@
 <div align="center">
   
-## BOCHK Smart Realtor - Smart Contract Rental
+# BOCHK Smart Realtor - Smart Contract Rental
 
 </div>
 
@@ -58,13 +58,13 @@ npm install
 php artisan serve
 ```
 
-## House Rental Address:localhost:8000
-## House Rental Dashboard Address:localhost:8000/dashboard
+### House Rental Address:localhost:8000
+### House Rental Dashboard Address:localhost:8000/dashboard
 > Login Account: **_admin@gamil.com_**
 > Login Password: **_admin_**
 
 ## Demo
-## HomePage Demo
+### HomePage Demo
 <img src="https://github.com/blackberryhalo/Smart-Realtor/blob/main/z_others/demo-images/Homepage.png"/>
 
 ## Entire Properties Index Page
